@@ -25,4 +25,4 @@ Simply add `data-zoom="enabled"` in your image and it will enable automatically,
 
 ![logo]
 
-[logo]: https://github.com/libinprasanth/image-zoom/screenshot.png
+[logo]: https://github.com/libinprasanth/image-zoom/blob/master/screenshot.png
